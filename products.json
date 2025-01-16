@@ -1,0 +1,30 @@
+[
+    {
+     "image": "products/ga1.jpg",
+     "title":"Product title",
+     "description": "Lorem ipsum dolorcsit amet",
+     "price": "9,99"
+    },
+    {
+        "image": "products/ga2.jpg",
+     "title":"Product title",
+     "description": "Lorem ipsum dolorcsit amet",
+     "price": "9,99"
+       },
+       {
+        "image": "products/ga3.jpg",
+        "title":"Product title",
+        "description": "Lorem ipsum dolorcsit amet",
+        "price": "9,99"
+       },
+       {
+           "image": "products/ga4.jpg",
+        "title":"Product title",
+        "description": "Lorem ipsum dolorcsit amet",
+        "price": "9,99"
+          }
+
+
+    
+
+]
